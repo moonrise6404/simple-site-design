@@ -3,7 +3,7 @@
 ## Core Philosophy
 **"Security through simplicity. Speed through minimalism."**
 
-This website follows ultra-minimal design principles inspired by the "motherfucking website" philosophy, adapted for cybersecurity professionals who value security, speed, and substance over flashy design.
+This document outlines ultra-minimal web design principles inspired by the "motherfuckingwebsite.com" philosophy, adapted for those who value security, speed, and substance over flashy design.
 
 ## Design Rules
 
@@ -109,7 +109,7 @@ Based on the principles of:
 - [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com)
 - [evenbettermotherfucking.website](http://evenbettermotherfucking.website)
 
-Adapted for cybersecurity professionals who value substance over style.
+Adapted for those who value substance over style.
 
 ---
 
