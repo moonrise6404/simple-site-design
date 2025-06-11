@@ -1,4 +1,4 @@
-# security-studies.net Design Principles
+# Minimal Website Design Principles
 
 ## Core Philosophy
 **"Security through simplicity. Speed through minimalism."**
