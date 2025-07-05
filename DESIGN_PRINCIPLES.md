@@ -149,7 +149,7 @@ figcaption {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Page description here">
-    <title>Page Title - security-studies.net</title>
+    <title>Page Title - yourdomain.com</title>
     <link rel="stylesheet" href="../styles.css">
 </head>
 <body>
@@ -233,7 +233,6 @@ figcaption {
 - ❌ CSS frameworks
 - ❌ Image sliders/carousels
 - ❌ Social media widgets
-- ❌ Analytics tracking
 - ❌ External fonts
 - ❌ Animations
 - ❌ Gradients or drop shadows
@@ -254,9 +253,3 @@ Based on the principles of:
 - [motherfuckingwebsite.com](http://motherfuckingwebsite.com)
 - [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com)
 - [evenbettermotherfucking.website](http://evenbettermotherfucking.website)
-
-Adapted for those who value substance over style.
-
----
-
-**Remember**: Every design decision should ask "Does this make the site faster, more secure, or more readable?" If not, don't add it. 
